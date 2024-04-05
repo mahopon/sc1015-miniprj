@@ -1,1 +1,0 @@
-# sc1015-miniprj
