@@ -1,3 +1,3 @@
-# SC1015 - Mini Project
-***
+# SC1015 - Data Science and AI Mini Project || Forecasting the Future: Predictive Modeling for Diabetes 
 
+### Introduction
