@@ -18,8 +18,9 @@ With the alarming increase in the rate of patients with diabetes, it is very imp
 
 This project delves into the realm of predictive modeling for diabetes, employing techniques from both machine learning and data analysis. Our aim is to develop a robust model capable of identifying individuals at high risk of developing diabetes, using certain attributes, for effective prevention and management strategies.
 
-## Problem Statement
-The project addresses the pressing need for more accurate and timely methods to predict and prevent diabetes onset. We aim to develop a predictive model that is able to predict based on the given attributes, hence improving predictions for individuals at risk of diabetes using various models. Hence, finding the best model to fit the problem.
+## Problem Definitions
+- Are we able to predict whether a person has diabetes based on a combination of factors or only a single factor?
+- Which model is the best in predicting it?
 
 ## Algorithms Used
 - Linear Regression
