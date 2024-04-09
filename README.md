@@ -4,9 +4,9 @@
 This Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) focuses on the dataset from Kaggle : https://www.kaggle.com/datasets/kandij/diabetes-dataset .
 
 ## Contributors 
-- @TangRuixuan (Tang Rui Xuan) - Data Extraction, Data Acquisition
-- @mahopon (Tan Chong Yao) - Linear Regression, tbc
-- @erinarin (Khoo Qian Yee) - Logistic Regression, Decision Tree Regression
+- @TangRuixuan (Tang Rui Xuan) - Data Acquisition, Exploratory Analysis
+- @mahopon (Tan Chong Yao) - Linear Regression, Random Forest Regression
+- @erinarin (Khoo Qian Yee) - Cleaning Data, Logistic Regression, Decision Tree Regression 
 
 
 ![Blue World Diabetes Day Instagram Post](https://github.com/mahopon/sc1015-miniprj/assets/162700690/4a33a258-aa95-4a53-8942-a0d743e1b01b)
@@ -16,14 +16,23 @@ With rapid advancements in the digital age, chronic diseases have been significa
 
 With the alarming increase in the rate of patients with diabetes, it is very important for the early detection of diabetes. This is because with early diagnosis proper treatment can be assesed in order to avoid further complications of the disease. Numerous studies have been conducted on disease prediction, including diagnosis, prediction, categorization, and treatment.
 
-This project endeavors to delve into the realm of predictive modeling for diabetes, employing techniques from machine learning and data analysis. Our aim is to develop robust models capable of identifying individuals at high risk of developing diabetes for effective prevention and management strategies.
+This project delves into the realm of predictive modeling for diabetes, employing techniques from both machine learning and data analysis. Our aim is to develop a robust model capable of identifying individuals at high risk of developing diabetes, using certain attributes, for effective prevention and management strategies.
 
 ## Problem Statement
-The project addresses the pressing need for more accurate and timely methods to predict and prevent diabetes onset. We aim to develop a predictive model that is able to predict based on the given attributes, hence improving predictions for individuals at risk of diabetes.
+The project addresses the pressing need for more accurate and timely methods to predict and prevent diabetes onset. We aim to develop a predictive model that is able to predict based on the given attributes, hence improving predictions for individuals at risk of diabetes using various models. Hence, finding the best model to fit the problem.
 
 ## Algorithms Used
-- 
+- Linear Regression
+- Random Forest Regression
+- Logistic Regression
+- Decision Tree Regression
+  
 ## Libraries USed
+- Numpy 
+- Pandas 
+- Seaborn
+- Scikit-learn
+- Matplotlib
 
 ## Conclusion
 ## Reference
