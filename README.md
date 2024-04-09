@@ -4,6 +4,8 @@
 This Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) focuses on the dataset from Kaggle : https://www.kaggle.com/datasets/kandij/diabetes-dataset .
 
 ## Contributors 
+-
+- @erinarin (Khoo Qian Yee)
 
 
 ![Blue World Diabetes Day Instagram Post](https://github.com/mahopon/sc1015-miniprj/assets/162700690/4a33a258-aa95-4a53-8942-a0d743e1b01b)
