@@ -27,7 +27,7 @@ The project addresses the pressing need for more accurate and timely methods to 
 - Logistic Regression
 - Decision Tree Regression
   
-## Libraries USed
+## Libraries Used
 - Numpy 
 - Pandas 
 - Seaborn
