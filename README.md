@@ -3,7 +3,7 @@
 ### About
 This Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) focuses on the dataset from Kaggle : https://www.kaggle.com/datasets/kandij/diabetes-dataset .
 
-![image](https://www.canva.com/design/DAGB8AHo1z8/LV29MyDsbuFQXXfItKGLSA/edit?ui=eyJEIjp7IlEiOnsiQSI6dHJ1ZX19fQ)
+![Blue World Diabetes Day Instagram Post](https://github.com/mahopon/sc1015-miniprj/assets/162700690/4a33a258-aa95-4a53-8942-a0d743e1b01b)
 
 ### Introduction
 With rapid advancements in the digital age, chronic diseases have been significantly decresed with the advancement in healthcare technology. Yet, diabetes has emerged as the new unseen pandamic. This is because of many people having a sendatary lifestylye due to multiple factors such as the lack of time, motivation or simply the lack of sports and leisure facilities. According to the IDF, 537 million adults (20-79 years) are living with diabetes - 1 in 10. This number is predicted to rise to 643 million by 2030 and 783 million by 2045. 
