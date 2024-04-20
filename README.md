@@ -21,7 +21,7 @@ This Mini-Project for SC1015 (Introduction to Data Science and Artificial Intell
 3. 
 
 ## Algorithms Used
-- Naive Regression
+- Gaussian Naive Bayes Regression
 - K Means Regression
 - Logistic Regression
 - Decision Tree Regression
