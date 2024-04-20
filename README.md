@@ -4,8 +4,8 @@
 This Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) focuses on the dataset from Kaggle : https://www.kaggle.com/datasets/kandij/diabetes-dataset .
 
 ## Contributors 
-- @TangRuixuan (Tang Rui Xuan) - Data Acquisition, K Means Regression
-- @mahopon (Tan Chong Yao) - Cleaning Data, Naive Regression
+- @TangRuixuan (Tang Rui Xuan) - Data Acquisition, K Means 
+- @mahopon (Tan Chong Yao) - Cleaning Data, Gaussian Naive Bayes Regression
 - @erinarin (Khoo Qian Yee) U2320573A - Exploratory Analysis, Logistic Regression, Decision Tree Regression 
 
 
