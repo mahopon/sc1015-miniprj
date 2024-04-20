@@ -6,7 +6,7 @@ This Mini-Project for SC1015 (Introduction to Data Science and Artificial Intell
 ## Contributors 
 - @TangRuixuan (Tang Rui Xuan) - Data Acquisition, K Means Regression
 - @mahopon (Tan Chong Yao) - Cleaning Data, Naive Regression
-- @erinarin (Khoo Qian Yee) - Exploratory Analysis, Logistic Regression, Decision Tree Regression 
+- @erinarin (Khoo Qian Yee) U2320573A - Exploratory Analysis, Logistic Regression, Decision Tree Regression 
 
 
 ![Blue World Diabetes Day Instagram Post](https://github.com/mahopon/sc1015-miniprj/assets/162700690/4a33a258-aa95-4a53-8942-a0d743e1b01b)
