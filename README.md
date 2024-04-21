@@ -16,9 +16,9 @@ This Mini-Project for SC1015 (Introduction to Data Science and Artificial Intell
 - Which model is the best in predicting it?
 
 ## Content
-1. re
-2. re
+1. diabetes2.csv : Dataset used
 3. 
+4. 
 
 ## Algorithms Used
 - Gaussian Naive Bayes Regression
