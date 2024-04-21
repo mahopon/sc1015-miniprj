@@ -17,8 +17,9 @@ This Mini-Project for SC1015 (Introduction to Data Science and Artificial Intell
 
 ## Content
 1. diabetes2.csv : Dataset used
-3. 
-4. 
+2. DiabetesPrediction_1015MiniProject_Group3_FCS3.ipynb : Code for all predicting models
+3. README.md : Information about the project
+4. PPT slides : Slides used for making the video
 
 ## Algorithms Used
 - Gaussian Naive Bayes Regression
