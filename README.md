@@ -35,7 +35,7 @@ This Mini-Project for SC1015 (Introduction to Data Science and Artificial Intell
 - Matplotlib
 
 ## Conclusion
-- All attributes are needed in preciting diabetes.
+- All attributes are needed in predicting diabetes.
 - The model best used in predicting diabetes based on our code is the Gaussian Naive Bayes Regression.
 ## Reference
 - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7700832/#:~:text=2.,or%20leisure%20facilities%20%5B1%5D.
