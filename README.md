@@ -5,7 +5,7 @@ This Mini-Project for SC1015 (Introduction to Data Science and Artificial Intell
 
 ## Contributors 
 - @TangRuixuan (Tang Rui Xuan) U2320339E - Data Acquisition, K Means 
-- @mahopon (Tan Chong Yao) U2321552F - Cleaning Data, Gaussian Naive Bayes Regression
+- @mahopon (Tan Chong Yao) U2321552F - Cleaning Data, Gaussian Naive Bayes Classification
 - @erinarin (Khoo Qian Yee) U2320573A - Exploratory Analysis, Logistic Regression, Decision Tree Regression 
 
 
@@ -22,8 +22,8 @@ This Mini-Project for SC1015 (Introduction to Data Science and Artificial Intell
 4. 1015 Video presentation.pptx : Slides used for making the video
 
 ## Algorithms Used
-- Gaussian Naive Bayes Regression
-- K Means Regression
+- Gaussian Naive Bayes Classification
+- K Means Clustering
 - Logistic Regression
 - Decision Tree Regression
   
