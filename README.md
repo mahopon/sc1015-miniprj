@@ -5,7 +5,7 @@ This Mini-Project for SC1015 (Introduction to Data Science and Artificial Intell
 
 ## Contributors 
 - @TangRuixuan (Tang Rui Xuan) U2320339E - Data Acquisition, K Means 
-- @mahopon (Tan Chong Yao) - Cleaning Data, Gaussian Naive Bayes Regression
+- @mahopon (Tan Chong Yao) U2321552F - Cleaning Data, Gaussian Naive Bayes Regression
 - @erinarin (Khoo Qian Yee) U2320573A - Exploratory Analysis, Logistic Regression, Decision Tree Regression 
 
 
@@ -19,7 +19,7 @@ This Mini-Project for SC1015 (Introduction to Data Science and Artificial Intell
 1. diabetes2.csv : Dataset used
 2. DiabetesPrediction_1015MiniProject_Group3_FCS3.ipynb : Code for all predicting models
 3. README.md : Information about the project
-4. PPT slides : Slides used for making the video
+4. 1015 Video presentation.pptx : Slides used for making the video
 
 ## Algorithms Used
 - Gaussian Naive Bayes Regression
