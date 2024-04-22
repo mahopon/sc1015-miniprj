@@ -36,7 +36,7 @@ This Mini-Project for SC1015 (Introduction to Data Science and Artificial Intell
 
 ## Conclusion
 - All attributes are needed in predicting diabetes.
-- The model best used in predicting diabetes based on our code is the Gaussian Naive Bayes Regression.
+- The model best used in predicting diabetes based on our code is the Gaussian Naive Bayes Classification.
 ## Reference
 - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7700832/#:~:text=2.,or%20leisure%20facilities%20%5B1%5D.
 - https://www.singhealth.com.sg/patient-care/conditions-treatments/Type-2-diabetes-mellitus#:~:text=Being%20overweight%20or%20obese,pressure%20(above%20140%2F90mmHg)
