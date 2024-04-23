@@ -25,7 +25,7 @@ This Mini-Project for SC1015 (Introduction to Data Science and Artificial Intell
 - Gaussian Naive Bayes Classification
 - K Means Clustering
 - Logistic Regression
-- Decision Tree Regression
+- Decision Tree 
   
 ## Libraries Used
 - Numpy 
